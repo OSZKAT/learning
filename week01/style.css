@@ -1,0 +1,28 @@
+/*******************************************************************
+*
+*Author : Kata
+*Date : 11.12.22
+*
+*******************************************************************/
+
+/* style p tags*/
+p {
+    font-size: 40px;
+    color: blue;
+}
+
+/* style h tags*/
+h1{ 
+    font-size: 50px;
+    color:darkorange
+}
+
+/* Style id*/
+#header{
+    font-style: italic;
+}
+
+/* style class*/
+.deck{
+    font-style: italic;
+}
